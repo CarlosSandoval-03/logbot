@@ -1,0 +1,14 @@
+[package]
+name = "logbot-cli"
+version = "0.0.1"
+authors = ["Carlos Sandoval <csandovalc@unal.edu.co>"]
+edition = "2021"
+description = "A simple CLI for the logbot project, a tool for logging and create GitHub releases, tags and changelogs."
+readme = "README.md"
+repository = "https://github.com/CarlosSandoval-03/logbot-cli"
+license = "GPL-3.0"
+license-file = "LICENSE"
+keywords = ["cli", "logbot", "logging", "github", "releases", "tags", "changelog"]
+categories = ["development-tools", "cli"]
+
+[dependencies]
